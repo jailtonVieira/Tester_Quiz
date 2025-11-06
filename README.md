@@ -4,7 +4,7 @@
 Esse é um projeto de Quiz. Aqui você testar o seu conhecimento em três niveis de dificuldade e aprender com as perguntas.
 
 ## REQUISITOS FUNCIONAIS:
-### Cadastrar Jogador
+- Cadastrar Jogador
 O sistema deve permitir o cadastro de um novo jogador informando nome, idade e posição.
 ### Iniciar Quiz
 O sistema deve permitir ao jogador iniciar um quiz com perguntas e respostas.
