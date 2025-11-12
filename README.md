@@ -59,5 +59,11 @@ usei a if ELSE e TRY EXCEPT, para controlar as volta e prever erros.
 Aqui embaralha as perguntas e mostraa as alternativas para escolher e verifica se a sua resposta estar correta e logo em seguida mostrar a sua pontuação e exibe as opções de voltar ao menu ou encerrar.
 usei IF ELSE ,  FOR, e a biblioteca RAMDON ,para embaralhar as perguntas e mostrar elas tela e verificar as repostas e somar a pontuação. 
 
+## UML & DIAGRAMA
+
+
+<img width="752" height="424" alt="Image" src="https://github.com/user-attachments/assets/5e3d6926-1d6f-44b4-a27d-b6249acdf896" />
+
+
 ## papeis do projeto:
 SCRUM MASTER: Jailton dos santos vieira filho
