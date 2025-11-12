@@ -55,26 +55,24 @@ listPerguntas = [
 ]
 
 def Menu():
-    while True:
         try:
             print("BEM VINDO AO QUIZ EDUCACIONAL")
             voltaMenu = int(input(f"{espaçamento}\n1 - Iniciar Quiz\n2 - Mostrar pontuação\n3 - Sair\nDigite aqui: "))
             if voltaMenu == 1:
                 mostrandoQuiz()
-                return True
+
             elif voltaMenu == 2:
                 print(f"{espaçamento}\npontuação do jogador {pontuação} ")
                 voltarPont = int(input("1 - Para voltar\nDigite aqui: "))
                 if voltarPont == 1:
                     Menu()
 
-                return True
             elif voltaMenu == 3 :
                 print(encerrar)
-                return False
 
         except ValueError:
             print(f"Você digitou uma letra,preste mais atenção!")
+            Menu()
 
 
         print(espaçamento)
