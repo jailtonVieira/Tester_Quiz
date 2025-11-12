@@ -49,6 +49,7 @@ A primrira funçãao leva o usuario ao menu onde ele tem tres opções sendo:
 - iniciar quiz
 - mostar pontos
 - sair
+
 Depois dessa escolha o menu leva o usuario para a proxima eatpa, caso o usuario escolha a primreira opção ele sera levado ao quiz, onde mostra as as perguntas e alternativas de forma aleatoria. e depois conferido a resposta que o usuario devolver e soamndo a sua pontuação
 
 ## papeis do projrto:
